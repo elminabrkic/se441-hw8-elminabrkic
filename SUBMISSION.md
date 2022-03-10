@@ -41,7 +41,7 @@ Your updated docker-compose.yml file containing the application server, built fr
 
 Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
 
-[application-mysql.properties](application-mysql.properties)
+[application-mysql.properties](src/main/resources/application-mysql.properties)
 
 
 The output from the docker-compose up command.
