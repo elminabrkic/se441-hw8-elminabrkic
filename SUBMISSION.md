@@ -49,6 +49,6 @@ The output from the docker-compose up command.
 ![](screenshots/docker-composer-compose-up.jpg)
 
 
-Your browser accessing the “Veterinarians” page of the website from your local con- tainer.
+Your browser accessing the “Veterinarians” page of the website from your local container.
 
 ![](screenshots/docker-compose-app-4.jpg)
