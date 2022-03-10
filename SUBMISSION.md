@@ -10,27 +10,27 @@ DOCKER
   
 Your running docker instance as shown by a ps command.
 
-(screenshots/docker-2.jpg)
+![](screenshots/docker-2.jpg)
 
 Your browser accessing the main page of the website from your local container.
 
-(screenshots/docker-3.jpg)
+![](screenshots/docker-3.jpg)
 
 
 DOCKER COMPOSE - MYSQL ONLY
 
 The output from the docker-compose up command.
 
-(screenshots/docker-compose-up-mysql-only.jpg)
+![](screenshots/docker-compose-up-mysql-only.jpg)
 
 Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
 
-(screenshots/dockerCopose-2.jpg)
+![](screenshots/dockerCopose-2.jpg)
 
 
 A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
 
-(screenshots/docker-compose-stack-trace.jpg)
+![](screenshots/docker-compose-stack-trace.jpg)
 
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
@@ -46,9 +46,9 @@ Your updated application-mysql.properties file containing the URL change for the
 
 The output from the docker-compose up command.
 
-(screenshots/docker-composer-compose up.jpg)
+![](screenshots/docker-composer-compose-up.jpg)
 
 
 Your browser accessing the “Veterinarians” page of the website from your local con- tainer.
 
-(screenshots/docker compose-app-4.jpg)
+![](screenshots/docker-compose-app-4.jpg)
